@@ -1,0 +1,7 @@
+SIZE NAME 20231103 /SistemasOperativos
+1000 /sistemas
+1000 /operativos
+1000 /bash
+1000 /programar
+1500 /executar
+1500 /leitura

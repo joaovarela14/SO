@@ -1,0 +1,7 @@
+SIZE NAME 20231103 /SistemasOperativos
+1200 /sistemas
+1200 /operativos
+800 /bash
+800 /programar
+1 /S0
+1 /projeto
